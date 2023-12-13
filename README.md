@@ -13,7 +13,7 @@ Is something missing? Please create a PR and I will merge ASAP. Thank you.
 - [Anchor by Spotify](https://podcasters.spotify.com/) - Good analytics, but does not allow posting via RSS
 
 ## Microphones 
-- [Samson Q2U](https://samsontech.com/products/microphones/usb-microphones/q2u/) - Popular affordable podcast microphone via USB
+- [Samson Q2U](https://samsontech.com/products/microphones/usb-microphones/q2u/) - Popular affordable podcast USB microphone
 
 ## Speech to text
 - [Whisper](https://openai.com/research/whisper) - Automatic speech to text
