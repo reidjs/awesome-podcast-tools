@@ -6,6 +6,7 @@ Is something missing? Please create a PR and I will merge ASAP. Thank you.
 ## Recording 
 - [Audacity](https://www.audacityteam.org/) - Free and comprehensive audio editing and recording.
 - [Craigbot](https://craig.chat/) - Records audio over discord.
+- [QuietTake Noise Remover](https://noiseremover.site/) - Browser-local RNNoise cleanup of short speech clips, with original/cleaned playback and WAV export; free without signup or audio upload, ≤50MB and ≤5min per file.
 - [Zoom](https://zoom.us/) - Videoconferencing software
 
 ## Distribution 
